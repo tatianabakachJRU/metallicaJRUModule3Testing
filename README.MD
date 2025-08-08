@@ -2,7 +2,7 @@
 
 ## Лекции
 
-- [Уровень_3: JUnit.](https://github.com/tatianabakachJRU/theKillersModule4/tree/main/src/main/java/com/javarush/lecture_1 )  
-  [Тесты.](https://github.com/tatianabakachJRU/theKillersModule4/blob/main/src/main/resources/lecture_1.sql )
-- [Уровень_4: Сложные SQL-запросы.]
-  [Файлы с SQL.](https://github.com/tatianabakachJRU/theKillersModule4/blob/main/src/main/resources )
+- [Уровень_3: JUnit.](https://github.com/tatianabakachJRU/metallicaJRUModule3Testing/tree/main/src/main/java/com/javarush/lecture_3 )  
+  [Тесты.](https://github.com/tatianabakachJRU/metallicaJRUModule3Testing/tree/main/src/test/java/com/javarush/lecture_3 )
+- [Уровень_4: Mockito.](https://github.com/tatianabakachJRU/metallicaJRUModule3Testing/tree/main/src/main/java/com/javarush/lecture_4 )  
+  [Тесты.](https://github.com/tatianabakachJRU/metallicaJRUModule3Testing/tree/main/src/test/java/com/javarush/lecture_4 )
