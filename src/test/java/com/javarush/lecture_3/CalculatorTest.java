@@ -1,8 +1,7 @@
-package com.javarush;
+package com.javarush.lecture_3;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.Nested;
-import org.junit.jupiter.api.extension.ExtendWith;
 
 import java.util.concurrent.TimeUnit;
 

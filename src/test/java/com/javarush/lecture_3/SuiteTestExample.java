@@ -1,4 +1,4 @@
-package com.javarush;
+package com.javarush.lecture_3;
 
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.Suite;

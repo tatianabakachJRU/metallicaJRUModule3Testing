@@ -1,0 +1,8 @@
+# Код из лекций группа Metallica JRU Модуль 4
+
+## Лекции
+
+- [Уровень_3: JUnit.](https://github.com/tatianabakachJRU/theKillersModule4/tree/main/src/main/java/com/javarush/lecture_1 )  
+  [Тесты.](https://github.com/tatianabakachJRU/theKillersModule4/blob/main/src/main/resources/lecture_1.sql )
+- [Уровень_4: Сложные SQL-запросы.]
+  [Файлы с SQL.](https://github.com/tatianabakachJRU/theKillersModule4/blob/main/src/main/resources )

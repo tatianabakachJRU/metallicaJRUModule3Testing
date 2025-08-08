@@ -1,4 +1,4 @@
-package com.javarush;
+package com.javarush.lecture_3;
 
 import org.junit.jupiter.api.*;
 

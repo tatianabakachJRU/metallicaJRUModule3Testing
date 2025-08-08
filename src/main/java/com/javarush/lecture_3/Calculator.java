@@ -1,4 +1,4 @@
-package com.javarush;
+package com.javarush.lecture_3;
 
 public class Calculator {
     public int add(int a, int b) {
